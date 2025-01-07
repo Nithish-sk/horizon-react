@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/horizon-react/static/css/main.5a0f462f.css",
-    "main.js": "/horizon-react/static/js/main.4d02fd4a.js",
+    "main.js": "/horizon-react/static/js/main.d46a1d6c.js",
     "static/media/auth.png": "/horizon-react/static/media/auth.20d5979b439e1531640d.png",
     "static/media/NftBanner1.png": "/horizon-react/static/media/NftBanner1.87062366f75bedd52bd2.png",
     "static/media/Nft2.png": "/horizon-react/static/media/Nft2.7897c45d2601ee3adfb5.png",
@@ -21,10 +21,10 @@
     "static/media/Project1.png": "/horizon-react/static/media/Project1.d5952144f76e2cb9e5d6.png",
     "index.html": "/horizon-react/index.html",
     "main.5a0f462f.css.map": "/horizon-react/static/css/main.5a0f462f.css.map",
-    "main.4d02fd4a.js.map": "/horizon-react/static/js/main.4d02fd4a.js.map"
+    "main.d46a1d6c.js.map": "/horizon-react/static/js/main.d46a1d6c.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f462f.css",
-    "static/js/main.4d02fd4a.js"
+    "static/js/main.d46a1d6c.js"
   ]
 }
